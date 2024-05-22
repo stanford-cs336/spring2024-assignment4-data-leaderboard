@@ -21,4 +21,5 @@ In your pull request description, you should include:
 
 | Name           | Validation Loss | Link                                         |
 |:---------------|----------------:|---------------------------------------------:|
+| xiongb         |         3.51066 |                                              |
 | naive baseline |          100.00 |                                              |
