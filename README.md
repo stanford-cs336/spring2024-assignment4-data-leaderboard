@@ -21,4 +21,5 @@ In your pull request description, you should include:
 
 | Name           | Validation Loss | Link                                         |
 |:---------------|----------------:|---------------------------------------------:|
+| chengshu       |           3.397 | [Link](https://wandb.ai/chengshu/cs336_hw4/reports/eval_loss-24-05-27-10-59-19---Vmlldzo4MTEzOTgz) |
 | naive baseline |          100.00 |                                              |
