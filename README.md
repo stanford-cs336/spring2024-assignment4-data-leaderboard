@@ -25,4 +25,5 @@ In your pull request description, you should include:
 | Jason Wang     |           3.497 | [wandb](https://api.wandb.ai/links/blahblahhhj/o390l3a1) |
 | xiongb         |           3.511 | [image](./images/xiongb.png)                                    |
 | Matty Reed     |           3.545 | [wandb](https://api.wandb.ai/links/matthewreed/wad1hxqu) |
+| Sudharsan Sundar |         3.582 | [wandb](https://api.wandb.ai/links/alephentine/thenownc) |
 | Michael Ryan   |           3.823 | [wandb](https://api.wandb.ai/links/michael-nlp/6o5lh2y3) |
