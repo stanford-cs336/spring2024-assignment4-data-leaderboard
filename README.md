@@ -22,10 +22,10 @@ In your pull request description, you should include:
 | Name           | Validation Loss | Link                                         |
 |:---------------|----------------:|---------------------------------------------:|
 | chengshu       |           3.397 | [Link](https://wandb.ai/chengshu/cs336_hw4/reports/eval_loss-24-05-27-10-59-19---Vmlldzo4MTEzOTgz) |
+| Tony Sun       |           3.440 | [wandb](https://api.wandb.ai/links/tonysun9/hvypz4dv)    |
 | Shijia Yang    |           3.450 | [wandb](https://api.wandb.ai/links/shijiayang/ackk9eun) |
 | Mason Wang     |           3.485 | [wandb](https://api.wandb.ai/links/masonwang/oga6dz89) |
 | Jason Wang     |           3.497 | [wandb](https://api.wandb.ai/links/blahblahhhj/o390l3a1) |
-| Tony Sun       |           3.498 | [wandb](https://api.wandb.ai/links/tonysun9/sihutgml)    |
 | sundararajan   |           3.511 | [wandb](https://api.wandb.ai/links/sundararajan-team/brohdggp) |
 | xiongb         |           3.511 | [image](./images/xiongb.png)                                    |
 | Matty Reed     |           3.545 | [wandb](https://api.wandb.ai/links/matthewreed/wad1hxqu) |
