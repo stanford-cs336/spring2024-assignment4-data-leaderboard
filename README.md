@@ -23,6 +23,7 @@ In your pull request description, you should include:
 |:---------------|----------------:|---------------------------------------------:|
 | chengshu       |           3.397 | [Link](https://wandb.ai/chengshu/cs336_hw4/reports/eval_loss-24-05-27-10-59-19---Vmlldzo4MTEzOTgz) |
 | rishabh        |           3.417 | [wandb](https://api.wandb.ai/links/rishabh-ranjan/93c9jode) |
+| Abhinav Garg (1/5th data, full run pending)   |           3.432  | [Link](https://api.wandb.ai/links/abhinavg4/8l2esdu6) 
 | Tony Sun       |           3.440 | [wandb](https://api.wandb.ai/links/tonysun9/hvypz4dv)    |
 | Beicheng Lou   |           3.448 | [wandb](https://api.wandb.ai/links/lbc45123s/r6lssfdi)    |
 | Shijia Yang    |           3.450 | [wandb](https://api.wandb.ai/links/shijiayang/ackk9eun) |
