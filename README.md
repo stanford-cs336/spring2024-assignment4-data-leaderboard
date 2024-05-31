@@ -33,3 +33,4 @@ In your pull request description, you should include:
 | Sudharsan Sundar |         3.582 | [wandb](https://api.wandb.ai/links/alephentine/thenownc) |
 | Santiago Hernández (78k steps) | 3.700 | [wandb](https://api.wandb.ai/links/estanfor/p2epo6oz) |
 | Michael Ryan   |           3.823 | [wandb](https://api.wandb.ai/links/michael-nlp/6o5lh2y3) |
+| mattding       |           10.365| [wandb](https://api.wandb.ai/links/mattding/wgu1ko6s) |
