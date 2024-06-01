@@ -29,6 +29,7 @@ In your pull request description, you should include:
 | Shijia Yang    |           3.450 | [wandb](https://api.wandb.ai/links/shijiayang/ackk9eun) |
 | Mason Wang     |           3.485 | [wandb](https://api.wandb.ai/links/masonwang/oga6dz89) |
 | Jason Wang     |           3.497 | [wandb](https://api.wandb.ai/links/blahblahhhj/o390l3a1) |
+| Sarah Chen     |           3.504 | [wandb](https://api.wandb.ai/links/sachen/mec4fo2v) |
 | sundararajan   |           3.511 | [wandb](https://api.wandb.ai/links/sundararajan-team/brohdggp) |
 | xiongb         |           3.511 | [image](./images/xiongb.png)                                    |
 | Matty Reed     |           3.545 | [wandb](https://api.wandb.ai/links/matthewreed/wad1hxqu) |
